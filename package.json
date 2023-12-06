@@ -5,6 +5,8 @@
   "type": "module",
   "version": "0.1.2",
   "license": "MIT",
+  "repository": "https://github.com/buk0vec/astro-lighthouse",
+  "homepage": "https://github.com/buk0vec/astro-lighthouse",
   "exports": {
     ".": "./src/index.mjs",
     "./package.json": "./package.json"
@@ -25,7 +27,9 @@
     "typescript": "^5.3.2"
   },
   "keywords": [
-    "astro-integration"
+    "astro-integration",
+    "withastro",
+    "optimization"
   ],
   "files": [
     "src/index.mjs",
