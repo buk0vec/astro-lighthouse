@@ -3,7 +3,7 @@
   "description": "Lighthouse Pagespeed insights within the Astro dev toolbar",
   "author": "buk0vec",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "exports": {
     ".": "./src/index.mjs",
@@ -21,9 +21,13 @@
     "astro": "^4.0.1",
     "typescript": "^5.3.2",
     "lighthouse": "^11.3.0"
-
   },
-  "keywords": ["astro-integration"],
-  "files": ["src/index.mjs", "src/lighthouse.js", "src/lighthouse-toolbar.js"]
-  
+  "keywords": [
+    "astro-integration"
+  ],
+  "files": [
+    "src/index.mjs",
+    "src/lighthouse.js",
+    "src/lighthouse-toolbar.js"
+  ]
 }
