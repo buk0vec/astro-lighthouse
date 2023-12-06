@@ -17,10 +17,12 @@
     "astro": "astro"
   },
   "dependencies": {
+    "lighthouse": "^11.3.0"
+  },
+  "devDependencies": {
     "@astrojs/check": "^0.3.1",
     "astro": "^4.0.1",
-    "typescript": "^5.3.2",
-    "lighthouse": "^11.3.0"
+    "typescript": "^5.3.2"
   },
   "keywords": [
     "astro-integration"
